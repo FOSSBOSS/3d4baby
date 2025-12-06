@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50.378143mm"
+   height="58.171669mm"
+   viewBox="0 0 50.378143 58.171669"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="trianle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64765011"
+     inkscape:cx="177.56501"
+     inkscape:cy="511.85045"
+     inkscape:window-width="1521"
+     inkscape:window-height="923"
+     inkscape:window-x="2177"
+     inkscape:window-y="289"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.699513,-12.992568)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+       id="path1976"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="128.44872"
+       sodipodi:cy="680.43823"
+       sodipodi:r1="96.542358"
+       sodipodi:r2="48.271179"
+       sodipodi:arg1="2.0943951"
+       sodipodi:arg2="3.1415927"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.34431634,0,0,0.34431634,28.265235,-192.2076)"
+       inkscape:transform-center-x="1.0737244"
+       inkscape:transform-center-y="-2.1356879"
+       d="m 80.177536,764.04637 0,-83.60814 0,-83.60813 72.406774,41.80407 72.40676,41.80406 -72.40677,41.80407 z" />
+  </g>
+</svg>

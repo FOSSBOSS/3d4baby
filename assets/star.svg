@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60.783138mm"
+   height="62.78569mm"
+   viewBox="0 0 60.783138 62.78569"
+   version="1.1"
+   id="svg849"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="star.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview851"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.64765011"
+     inkscape:cx="20.072567"
+     inkscape:cy="178.33703"
+     inkscape:window-width="1521"
+     inkscape:window-height="923"
+     inkscape:window-x="2040"
+     inkscape:window-y="189"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs846" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.069228,-101.37882)">
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+       id="path1978"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="855.74695"
+       sodipodi:cy="360.41458"
+       sodipodi:r1="79.293869"
+       sodipodi:r2="39.646935"
+       sodipodi:arg1="0.68343256"
+       sodipodi:arg2="1.3117511"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       transform="matrix(0.41105557,0,0,0.41105557,-221.68193,-14.816015)"
+       inkscape:transform-center-x="2.5937592"
+       inkscape:transform-center-y="-5.7984339"
+       d="m 917.23219,410.48536 -51.32937,-11.74666 -38.77603,35.62454 -4.6899,-52.44705 -45.86341,-25.8696 48.43085,-20.6674 10.43088,-51.61284 34.62182,39.6739 52.31004,-6.02889 -27.03339,45.18722 z" />
+  </g>
+</svg>
